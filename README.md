@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ypenganalyst
 - 👀 I’m interested in Quantative Finance 
-- 🌱 I’m currently learning R programming and Tebleau
+- 🌱 I’m currently learning R programming and Tableau
 - 💞️ I’m looking to collaborate on building quantative model
 - 📫 How to reach me ...
 
